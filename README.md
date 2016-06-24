@@ -30,3 +30,6 @@ model - 4: encoder-decoder with attention
 
 results: four encoder-decoder modes
 
+Question: How to change the encoder-decoder modes?
+Answering: Change the decoder_mode in Line 144 of the code. For example, you can change decoder_mode = 4 to run the attention mode.
+
