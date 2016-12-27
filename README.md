@@ -32,5 +32,5 @@ results: four encoder-decoder modes
 
 Question: How to change the encoder-decoder modes?
 
-Answering: Change the decoder_mode in Line 144 of the code. For example, you can change decoder_mode = 4 to run the attention mode.
+Answering: Change the decoder_mode in Line 144 of the code. For example, you can change `decoder_mode = 3` to run the attention mode.
 
